@@ -1,2 +1,2 @@
 # dynamo-revit-recipes
-Accompaniment to Dynamo-Revit Recipes Gitbook
+A Collection of Recipes for Autodesk Revit Workflows using Dynamo
