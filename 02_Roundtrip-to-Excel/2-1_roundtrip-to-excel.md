@@ -14,13 +14,11 @@ Surprisingly, the biggest challenge turned out to be not the actual connection t
 
 This step takes the existing levels from Revit and writes it into the Excel File. Below are screenshots of the state of the Excel and Revit files after the first run of the definition.
 
-
+![](/02_Roundtrip-to-Excel/images/excelBefore.PNG)
 
 ### Read From Excel
 
 ![](/02_Roundtrip-to-Excel/images/readFromExcel.PNG)
 
 This part reads data from the the specified sheet. When starting off, the excel sheet is empty as it needs to be populated by information from the Revit Model. This group takes the two excel columns viz. the Level 'Name' and the Level 'Elevation' and splits them for further processing. The important thing to note here is that lengths \(Elevations\) are stored as decimal feet within Revit. This is critical is one is to perform any calulations with this information.
-
-
 
