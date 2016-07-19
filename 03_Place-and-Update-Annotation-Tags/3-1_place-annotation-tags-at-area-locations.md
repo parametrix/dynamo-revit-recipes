@@ -1,2 +1,2 @@
-# Place Annotation Tags at Area Location
+# PLACE ANNOTATION TAGS AT AREA LOCATIONS
 
