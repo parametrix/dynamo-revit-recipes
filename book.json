@@ -3,8 +3,8 @@
     "pluginsConfig":{
         "fancybox":{
             {
-                helpers:{
-                    buttons:{}
+                "helpers":{
+                    "buttons":{}
                 }
             }
         }
