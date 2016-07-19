@@ -2,11 +2,6 @@
     "plugins": ["fancybox"]
     "pluginsConfig":{
         "fancybox":{
-            {
-                "helpers":{
-                    "buttons":{}
-                }
-            }
         }
     }
 }
