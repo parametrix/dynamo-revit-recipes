@@ -6,3 +6,5 @@ The Revit Project being a database, always lent itself to extension using Excel.
 
 Surprisingly, the biggest challenge turned out to be not the actual connection to Excel, but the smaller nuances of how the parameter data gets modified during the process of transferring between the two applications. If you would like to skip the explanations, you can download the dataset [here](https://github.com/parametrix/dynamo-revit-recipes/tree/master/02_Roundtrip-to-Excel/datasets).
 
+![](/assets/completeDefinition.png)
+
