@@ -44,7 +44,6 @@ This step will add the required levels into the Revit project should the spreads
 
 ### Video
 
-{% youtube %}https:\/\/youtu.be\/cHxfUTZtbcM{% endyoutube %}
 
 
 
