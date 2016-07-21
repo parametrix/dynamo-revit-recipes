@@ -1,3 +1,6 @@
 {
-     "plugins": ["fancybox"] 
+    "plugins": [
+        "fancybox",
+        "youtube"
+    ]
 }
