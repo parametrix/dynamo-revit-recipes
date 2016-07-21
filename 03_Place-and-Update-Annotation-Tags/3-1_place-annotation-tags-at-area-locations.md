@@ -2,7 +2,7 @@
 
 ![](/03_Place-and-Update-Annotation-Tags/images/3-1_PlaceAreaTags_Overall.png)
 
-This graph consists of two major operations. The two groups on the left side get X-Y locations of Areas in the Area Plan an filter out those Floor Plan Views that need to have the Tags. The area location dictate only the initial area location. The Generic Annotation Tags being independant objects, can then be moved to a convenient location on the floor plan if needed.
+This graph consists of two major operations. The two groups on the left side get X-Y locations of Areas in the Area Plan and filter out those Floor Plan Views that need to have the Tags. The area location dictates only the initial area location. The Generic Annotation Tags being independant objects, can then be moved to a convenient location on the floor plan if needed.
 
 ### Getting Area Locations
 
