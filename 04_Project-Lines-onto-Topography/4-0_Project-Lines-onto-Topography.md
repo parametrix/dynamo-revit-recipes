@@ -12,7 +12,7 @@ This recipe documents the process of using Dynamo to project Property Line eleme
 
 ### The Uncomplicated Approach
 
-One can of course eschew the complicated approach of using Dynamo and simply use the _Sub Region _within the _Massing and Site _toolset. The results are acceptable except for the fact that one cannot change the Line Style or host any other family along the line. The image below shows the results of using the Sub Region.
+One can of course eschew the complicated approach of using Dynamo and simply use the Sub Region within the Massing and Site toolset. The results are acceptable except for the fact that one cannot change the Line Style or host any other family along the line. The image below shows the results of using the Sub Region.
 
 ![](/04_Project-Lines-onto-Topography/images/4-0_Sub-Region.PNG)
 
